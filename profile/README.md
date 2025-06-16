@@ -74,8 +74,8 @@ Your small weekly fee serves a double purpose: it covers for our mentoring effor
 
 ## 📌 Ready to Plant Your Flag?
 
-* **Volunteer Lead?** DM founder Serge on LinkedIn: *linkedin.com/in/serge-ivo*
-* **Apprentice eager to learn?** Fill the quick form at *SeedStart.world/apply* (alpha landing page)
-* **Have a startup idea?** Join our pilot cohort waitlist on the site.
+* **Volunteer Lead?** DM founder Serge on LinkedIn: *[linkedin.com/in/serge-ivo](https://www.linkedin.com/in/sergeivo/)*
+* **Apprentice eager to learn?** DM founder Serge on LinkedIn: *[linkedin.com/in/serge-ivo](https://www.linkedin.com/in/sergeivo/)*
+* **Have a startup idea?** Create a team on seedstart.world and attract members for free!
 
 Let’s grow ideas into funded ventures—together! 🚀
