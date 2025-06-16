@@ -13,7 +13,7 @@ SeedStart.world is building the go-to platform where early-stage founders can **
 Over the next 90 days we’re laser-focused on:
 
 1. Shipping our private alpha (milestone & team ledger, SeedPoints engine)
-2. On-boarding 25 pilot startups
+2. On-boarding 10 pilot startups
 3. Publishing the first public “SeedStart Leaderboard” to catch investor eyes
 
 Help us reach these goals and shape the product from day one!
