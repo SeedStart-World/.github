@@ -32,7 +32,7 @@ We’re 100 % volunteer-driven until funding lands, so we’re looking for **exp
 
 ### Volunteer Commitments
 
-* Minimum 4 weekly meetings on Google Meet
+* Minimum 4 weekly meetings on Google Meet (4pm Melbourne time)
 * Code / design reviews & mentoring on Discord
 * \~10 hrs per week hands-on contribution
 * Driving junior/apprentice task boards and celebrating releases
@@ -54,7 +54,7 @@ If you stick around for 8 weeks we can issue a certificate or reference letter/f
 
 | Program Snapshot | Details                                                                  |
 | ---------------- | ------------------------------------------------------------------------ |
-| **Cadence**      | Minimum 3 meetings per week                                              |
+| **Cadence**      | Minimum 3 meetings per week (4pm Melbourne time)                         |
 | **Time**         | 10 hrs/week (remote, flexible)                                           |
 | **Curriculum**   | React + TypeScript / Figma & prototyping / Agile roadmapping             |
 | **Support**      | Daily Discord Q\&A, code reviews, weekly feedback loops                  |
