@@ -45,9 +45,12 @@ We’re 100 % volunteer-driven until funding lands, so we’re looking for **exp
 
 ---
 
-## 🎓 Apprenticeship (Internship) Track – \$25/week
+## 🎓 Learner Developer Program (Intern-style) – \$25/week
 
-Aspiring Software Engineers, UI/UX Designers, or Product Analysts: join our **8- to 12-week hands-on apprenticeship**. You’ll pair with a Lead, tackle scoped user stories, and finish with a portfolio-ready project and a SeedStart certification.
+Aspiring Software Engineers, UI/UX Designers, or Product Analysts: join our **8- to 12-week hands-on learning program**.
+You’ll get mentorship from a senior developers that will help you grow your skills faster.
+You will be part of the team brainstorming, formulating tasks, coding, testing, deploying real features to our website - https://seedstart.world.
+If you stick around for 8 weeks we can issue a certificate or reference letter/form.
 
 | Program Snapshot | Details                                                                  |
 | ---------------- | ------------------------------------------------------------------------ |
@@ -55,7 +58,7 @@ Aspiring Software Engineers, UI/UX Designers, or Product Analysts: join our **8-
 | **Time**         | 10 hrs/week (remote, flexible)                                           |
 | **Curriculum**   | React + TypeScript / Figma & prototyping / Agile roadmapping             |
 | **Support**      | Daily Discord Q\&A, code reviews, weekly feedback loops                  |
-| **Outcome**      | Certificate, LinkedIn recommendation, potential promotion to contributor |
+| **Outcome**      | Certificate, LinkedIn recommendation, potential promotion to lead        |
 | **Fee**          | **\$25 per week** (covers platform, tooling, & mentor time)              |
 
 Your small weekly fee serves a double purpose: it covers for our mentoring effort, and (like a gym membership) because you’ve paid, you’re more likely to stick with the program.
